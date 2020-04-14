@@ -5,3 +5,6 @@
 
 # Does this work?
 /sensitive
+
+# Will this correctly ignore the passwords file?
+passwords.rtf
